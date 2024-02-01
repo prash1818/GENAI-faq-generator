@@ -1,0 +1,12 @@
+{
+  "faqs": [
+    {
+      "question": "What is the return policy?",
+      "response": "Our return policy allows returns within 30 days of purchase."
+    },
+    {
+      "question": "How can I track my order?",
+      "response": "You can track your order using the tracking number provided in your shipment confirmation email."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "faqs": [
+    {
+      "question": "What are the terms and conditions for international shipping, including customs duties and delivery times?",
+      "context": "Shipping information"
+    },
+    {
+      "question": "How can I track my order?",
+      "context": "Shipping information"
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "context": "Billing information"
+    },
+    {
+      "question": "What is the procedure for returning a product that was damaged during shipping, and who covers the return shipping costs?",
+      "context": "Customer support"
+    },
+    {
+      "question": "How do I reset my password?",
+      "context": "Account management"
+    },
+    {
+      "question": "How can I ensure my personal information is secure when using your online platform, and what encryption methods are in place?",
+      "context": "Security"
+    },
+    {
+      "question": "Can I change my shipping address after placing an order?",
+      "context": "Order management"
+    },
+    {
+      "question": "Are there any special discounts or promotional offers available for first-time customers, and how can I apply them to my order?",
+      "context": "Sales and promotions"
+    },
+    {
+      "question": "What is your company's policy on handling customer data and what measures are taken to comply with data protection regulations?",
+      "context": "Privacy policy"
+    },
+    {
+      "question": "What should I do if I encounter an error while making a payment?",
+      "context": "Payment issues"
+    }
+  ]
+}

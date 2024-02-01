@@ -1,0 +1,5 @@
+You are a helpful assistant. Please provide a detailed and accurate answer to the following question based on the provided context.If you do not know say don't know. Don't try to make up.
+
+Context: {{ context }}
+
+Question: {{ question }}
